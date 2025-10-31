@@ -1,65 +1,94 @@
-# markdown-cv
+---
+title: "Marcio Bera"
+subtitle: "Senior Backend Engineer"
+date: 2025-10-31
+---
 
-A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
+# Marcio Bera  
+Poole, UK · +44 7394 078150 · marciobera@hotmail.com · [github.com/marciobera](https://github.com/marciobera) · [linkedin.com/in/marciobera](https://linkedin.com/in/marciobera)
 
-For more details, see the [project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+---
 
-***
+## PROFILE  
+Senior Backend Engineer with 10+ years of experience designing scalable APIs, leading full-stack and backend initiatives, and delivering high-impact features in distributed systems. Skilled in PHP, Node.js, TypeScript and modern cloud infrastructure (AWS, Redis, MySQL, Postgres, ElasticSearch). Passionate about clean architecture, code quality and mentoring teams to deliver reliable, maintainable software at scale.
 
-## Customization
+---
 
-Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+## EXPERIENCE  
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+### Senior Backend Engineer · Manual (now Voy) · London, UK  
+**Sep 2024 – Present**  
+- Building and optimising backend services powering digital-health and subscription platforms serving thousands of customers across UK & EU.  
+- Modernised core systems to improve scalability, observability and developer experience.  
+- Designed & maintained APIs and background jobs for payment flows, questionnaires and subscription logic.  
+- Integrated PostHog analytics and Google reCAPTCHA to enhance user journeys and fraud detection.  
+- Led technical discussions on system design, testing strategy and backend guild improvements.  
+**Tech stack:** PHP 8.1, Symfony, Doctrine ORM, Redis (Enqueue), MySQL, GitHub Actions, PostHog, HAProxy, Docker
 
-and edit the `index.md` file [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+---
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+### Senior Backend Developer · Bauer Media Group · Manchester, UK  
+**Mar 2019 – Sep 2024**  
+- Developed and maintained APIs and microservices supporting 200 M+ monthly users and €2.2 B annual revenue.  
+- Delivered performant, distributed services using AWS, Node.js and TypeScript.  
+- Collaborated across teams to migrate legacy PHP systems to modern architectures.  
+**Tech stack:** AWS (S3, SQS, Lambda), Node.js, TypeScript, PHP, Redis, Postgres, ElasticSearch, Swagger
 
-adding your skills, jobs and education.
+---
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+### Full-Stack Developer · HeroesMaker (Remote, Spain)  
+**Jan 2018 – Mar 2019**  
+- Led design and development of scalable web services empowering career-opportunity users.  
+- Built APIs and frontend features using PHP (CodeIgniter) and AngularJS.  
+- Implemented data-crawling and background processing pipelines on AWS.
 
-## Distribution
+---
 
-To transform your plain text CV into a beautiful and shareable HTML page, you have two options:
+### Web Developer (Contract) · Family Museum (Govt Project) · Maringá, Brazil  
+**Jun 2016 – Dec 2017**  
+- Developed and maintained RESTful services to manage public cultural-heritage data using MySQL, Bootstrap, AngularJS.
 
-### I. Use Github Pages to publish it online
+---
 
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the Github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch).
-2. Create a new branch called `gh-pages`.
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
+### Assistant Professor · State University of Maringá · Maringá, Brazil  
+**Sep 2015 – Aug 2017**  
+- Taught Software Engineering (UML), Algorithms (C, Python, Pascal), Web Programming (HTML, CSS, JavaScript, Java/JSF/Spring) and Project Management.
 
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
+---
 
-### II. Build it locally and print a PDF
+## EDUCATION  
+**Master’s in Computer Science** · State University of Maringá, Brazil · 2013-2015  
+_Dissertation now chapter 6 of the book “UML-Based Software Product Line Engineering with SMarty” (2023)._  
 
-1. To [install jekyll](https://jekyllrb.com/docs/installation/), run `gem install bundler jekyll` from the command line.
-3. [Clone](https://help.github.com/en/articles/cloning-a-repository) your fork of markdown-cv to your local machine.
-3. Type `jekyll serve` to render your CV at http://localhost:4000.
-4. You can edit the `index.md` file and see the changes live in your browser.
-5. To print a PDF, press <kbd>⌘</kbd> + <kbd>p</kbd>. Print and web CSS media queries should take care of the styling.
+**MBA in Mobile App Development** · University Centre Cidade Verde, Brazil · 2013-2015  
+_Final project: MEAN-stack JavaScript mobile application._  
 
-## Styling
+**Technology in Internet Systems (BSc)** · UniCesumar, Brazil · 2009-2011  
+_Covering algorithms (C, PHP, Java, SQL), web design (Photoshop, Corel Draw), marketing, communication and project management._
 
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
+---
 
-To change the default style, simply change the variable in the
-`_config.yml` file.
+## PROJECTS  
+**Approvalo (2021)** – Web application tailored for Brazilians living in the UK (expats).  
+_Tech stack:_ Next.js, React, PHP (Laravel), Redis, MySQL, Cloudflare, Vercel.
 
-Any other styling is possible. More CSS style contributions and forks are welcome!
+**FinmedApp (2018)** – iOS/Android mobile app for doctors to store personal appointment photos for further audit.  
+_Tech stack:_ React Native, Firebase.
 
-### Author
+---
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
+## TECHNICAL SKILLS  
+**Languages:** PHP · TypeScript · JavaScript · SQL  
+**Frameworks & Libraries:** Symfony · Laravel · Node.js · Express · NestJS  
+**Databases & Data Stores:** MySQL · Postgres · Redis · ElasticSearch · Firebase  
+**Cloud & DevOps:** AWS (S3, SQS, Secrets Manager) · Docker · GitHub Actions · Vercel · Cloudflare  
+**Testing:** PHPUnit · Codeception · Jest  
+**Practices:** REST APIs · Clean Code · OOP · System Design · Full-Stack  
+**Languages:** English (Professional) · Portuguese (Native)
 
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+---
 
-### License
+## LANGUAGES  
+- English — Professional proficiency  
+- Portuguese — Native speaker  
 
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
