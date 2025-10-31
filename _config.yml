@@ -1,6 +1,6 @@
 title: "Marcio Bera"
 description: "Senior Backend Engineer"
-theme: null
 markdown: kramdown
-style: modern  # or 'classic'
-use_paged_own_name: true
+exclude: ["README.md"]
+sass:
+  style: compressed
