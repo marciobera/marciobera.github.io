@@ -1,4 +1,5 @@
 ---
+layout: cv
 title: "Marcio Bera"
 subtitle: "Senior Backend Engineer"
 date: 2025-10-31
