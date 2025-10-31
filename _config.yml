@@ -1,2 +1,6 @@
+title: "Marcio Bera"
+description: "Senior Backend Engineer"
+theme: null
 markdown: kramdown
-style: davewhipp
+style: modern  # or 'classic'
+use_paged_own_name: true
