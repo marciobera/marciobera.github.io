@@ -1,6 +1,4 @@
 title: "Marcio Bera"
 description: "Senior Backend Engineer"
 markdown: kramdown
-exclude: ["README.md"]
-sass:
-  style: compressed
+style: classic
