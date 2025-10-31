@@ -18,7 +18,7 @@ Senior Backend Engineer with 10+ years of experience designing scalable APIs, le
 
 ### Senior Backend Engineer · Manual (now Voy) · London, UK  
 **Sep 2024 – Present**  
-- Building and optimising backend services powering digital-health and subscription platforms serving thousands of customers across UK & EU.  
+- Building and optimising backend services powering digital-health and subscription platforms serving thousands of customers across UK & BR.  
 - Modernised core systems to improve scalability, observability and developer experience.  
 - Designed & maintained APIs and background jobs for payment flows, questionnaires and subscription logic.  
 - Integrated PostHog analytics and Google reCAPTCHA to enhance user journeys and fraud detection.  

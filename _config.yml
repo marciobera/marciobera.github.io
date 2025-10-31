@@ -1,4 +1,2 @@
-title: "Marcio Bera"
-description: "Senior Backend Engineer"
-markdown: kramdown
-style: davewhipp
+markdown:   kramdown
+style:  kjhealy
