@@ -1,91 +1,94 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+title: "Marcio Bera"
+subtitle: "Senior Backend Engineer"
+date: 2025-10-31
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Marcio Bera  
+Poole, UK · +44 7394 078150 · marciobera@hotmail.com · [github.com/marciobera](https://github.com/marciobera) · [linkedin.com/in/marciobera](https://linkedin.com/in/marciobera)
 
+---
 
-## Currently
+## PROFILE  
+Senior Backend Engineer with 10+ years of experience designing scalable APIs, leading full-stack and backend initiatives, and delivering high-impact features in distributed systems. Skilled in PHP, Node.js, TypeScript and modern cloud infrastructure (AWS, Redis, MySQL, Postgres, ElasticSearch). Passionate about clean architecture, code quality and mentoring teams to deliver reliable, maintainable software at scale.
 
-Standing on the shoulders of giants
+---
 
-### Specialized in
+## EXPERIENCE  
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Senior Backend Engineer · Manual (now Voy) · London, UK  
+**Sep 2024 – Present**  
+- Building and optimising backend services powering digital-health and subscription platforms serving thousands of customers across UK & EU.  
+- Modernised core systems to improve scalability, observability and developer experience.  
+- Designed & maintained APIs and background jobs for payment flows, questionnaires and subscription logic.  
+- Integrated PostHog analytics and Google reCAPTCHA to enhance user journeys and fraud detection.  
+- Led technical discussions on system design, testing strategy and backend guild improvements.  
+**Tech stack:** PHP 8.1, Symfony, Doctrine ORM, Redis (Enqueue), MySQL, GitHub Actions, PostHog, HAProxy, Docker
 
+---
 
-### Research interests
+### Senior Backend Developer · Bauer Media Group · Manchester, UK  
+**Mar 2019 – Sep 2024**  
+- Developed and maintained APIs and microservices supporting 200 M+ monthly users and €2.2 B annual revenue.  
+- Delivered performant, distributed services using AWS, Node.js and TypeScript.  
+- Collaborated across teams to migrate legacy PHP systems to modern architectures.  
+**Tech stack:** AWS (S3, SQS, Lambda), Node.js, TypeScript, PHP, Redis, Postgres, ElasticSearch, Swagger
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+---
 
+### Full-Stack Developer · HeroesMaker (Remote, Spain)  
+**Jan 2018 – Mar 2019**  
+- Led design and development of scalable web services empowering career-opportunity users.  
+- Built APIs and frontend features using PHP (CodeIgniter) and AngularJS.  
+- Implemented data-crawling and background processing pipelines on AWS.
 
-## Education
+---
 
-`1654-1660`
-__The King's School, Grantham.__
+### Web Developer (Contract) · Family Museum (Govt Project) · Maringá, Brazil  
+**Jun 2016 – Dec 2017**  
+- Developed and maintained RESTful services to manage public cultural-heritage data using MySQL, Bootstrap, AngularJS.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+---
 
-- Sizar
+### Assistant Professor · State University of Maringá · Maringá, Brazil  
+**Sep 2015 – Aug 2017**  
+- Taught Software Engineering (UML), Algorithms (C, Python, Pascal), Web Programming (HTML, CSS, JavaScript, Java/JSF/Spring) and Project Management.
 
-`1667 - death`
-__Trinity College, Cambridge__
+---
 
-- Fellow
+## EDUCATION  
+**Master’s in Computer Science** · State University of Maringá, Brazil · 2013-2015  
+_Dissertation now chapter 6 of the book “UML-Based Software Product Line Engineering with SMarty” (2023)._  
 
+**MBA in Mobile App Development** · University Centre Cidade Verde, Brazil · 2013-2015  
+_Final project: MEAN-stack JavaScript mobile application._  
 
+**Technology in Internet Systems (BSc)** · UniCesumar, Brazil · 2009-2011  
+_Covering algorithms (C, PHP, Java, SQL), web design (Photoshop, Corel Draw), marketing, communication and project management._
 
-## Awards
+---
 
-`2012`
-President, *Royal Society*, London, UK
+## PROJECTS  
+**Approvalo (2021)** – Web application tailored for Brazilians living in the UK (expats).  
+_Tech stack:_ Next.js, React, PHP (Laravel), Redis, MySQL, Cloudflare, Vercel.
 
-Associate, *French Academy of Science*, Paris, France
+**FinmedApp (2018)** – iOS/Android mobile app for doctors to store personal appointment photos for further audit.  
+_Tech stack:_ React Native, Firebase.
 
+---
 
+## TECHNICAL SKILLS  
+**Languages:** PHP · TypeScript · JavaScript · SQL  
+**Frameworks & Libraries:** Symfony · Laravel · Node.js · Express · NestJS  
+**Databases & Data Stores:** MySQL · Postgres · Redis · ElasticSearch · Firebase  
+**Cloud & DevOps:** AWS (S3, SQS, Secrets Manager) · Docker · GitHub Actions · Vercel · Cloudflare  
+**Testing:** PHPUnit · Codeception · Jest  
+**Practices:** REST APIs · Clean Code · OOP · System Design · Full-Stack  
+**Languages:** English (Professional) · Portuguese (Native)
 
-## Publications
+---
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
+## LANGUAGES  
+- English — Professional proficiency  
+- Portuguese — Native speaker  
 
