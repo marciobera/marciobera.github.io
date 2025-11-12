@@ -13,8 +13,7 @@
 }
 
 .ds-social ul li .item {
-    display: block;
-    float: left;
+    display: inline;
 }
 .ds-social ul li.print {
     display: none;
