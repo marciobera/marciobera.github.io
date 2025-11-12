@@ -125,6 +125,14 @@ svg, img {
     text-align: center;
 }
 
+.ds-logo .title {
+    font-size: 0.875rem;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: 800;
+    margin-top: 10px;
+}
+
 .ds-logo a {
     display: inline-block;
     color: #FFF;
@@ -170,13 +178,13 @@ svg, img {
     margin-bottom: 2.5rem
 }
 
-.ds-socail span {
+.ds-social span {
     display: block;
     font-weight: 600;
     font-size: 1.125rem
 }
 
-.ds-socail ul {
+.ds-social ul {
     list-style: none;
     padding: 0;
     margin: 0;
@@ -185,16 +193,20 @@ svg, img {
     font-size: 1.125rem
 }
 
-.ds-socail ul li {
+.ds-social ul li {
     margin-right: 20px;
     margin-top: 10px;
 }
 
-.ds-socail ul li:last-child {
+.ds-social ul li .item {
+    display: none;
+}
+
+.ds-social ul li:last-child {
     margin-right: 0
 }
 
-.ds-socail ul li a:hover {
+.ds-social ul li a:hover {
     color: #00c1ff;
 }
 

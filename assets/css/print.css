@@ -1,0 +1,79 @@
+@page {
+    margin: 0;
+    padding: 8mm 0;
+    font-size: 0.8rem;
+}
+
+.ds-sticky figure, .ds-social span, .ds-heading {
+    display: none;
+}
+
+.ds-social ul li {
+    font-size: 0.7rem;
+}
+
+.ds-social ul li .item {
+    display: block;
+    float: left;
+}
+.ds-social ul li.print {
+    display: none;
+}
+
+.ds-pge-wrap, .ds-logo, .ds-social, .ds-header {
+    padding: 0;
+    margin: 0;
+}
+.ds-info-sectio p, .section-box p {
+    font-size: 0.8rem;
+    margin: 0;
+    text-align: justify;
+    line-height: normal;
+    padding: 0;
+    color: #10181b;
+}
+
+.section-box p.stack {
+    margin-top: 10px;
+}
+.section-box p.stack small {
+    color: #dddddd;
+}
+
+.section-box small {
+    font-size: 0.7rem;
+}
+
+hr {
+    margin: 3mm 0;
+    border: 0;
+    border-top: 1px solid #ddd;
+}
+
+.ds-logo a {
+    padding-bottom: 3px;
+}
+.ds-logo .title {
+    margin-top: 3px;
+}
+.ds-info-sectio-wrp {
+    padding: 5mm 0;
+}
+
+.ds-info-list-section {
+    margin-top: 6mm;
+}
+.ds-info-list-section h3 {
+    margin-bottom: 3mm;
+}
+.ds-info-list-section h6 {
+    font-size: 0.8rem;
+}
+.ds-sticky {
+    position: relative;
+}
+
+.skills-box {
+    color: #10181b;
+    font-size: 0.8rem;
+}
